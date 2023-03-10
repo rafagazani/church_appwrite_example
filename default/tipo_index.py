@@ -1,0 +1,2 @@
+fulltext = "fulltext"
+key = "key"

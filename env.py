@@ -1,0 +1,6 @@
+host = 'https://cloud.appwrite.io/v1'
+cliente = 'https://my-web-site'
+project = 'id-project'
+db = 'id-database'
+key = 'my-key'
+function_key = ''
